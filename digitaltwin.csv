@@ -16,6 +16,6 @@ col1,col2,col3,col4
  Asset Management,,high,critical
  Maintenance Optimization,,critical,low
  Lifecycle Management,,low,high
- Industry 4,y,medium,medium
+ Industry 4,,medium,medium
  Smart Cities,,high,critical
  Decision Support Systems,,critical,low
