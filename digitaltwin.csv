@@ -2,7 +2,7 @@ col1,col2,col3,col4
  Digital twin,Artificial intelligence ,low,high
  IoT (Internet of Things),,medium,medium
  Simulation,,high,critical
- Virtualization, ,critical,low
+ Virtualization,,critical,low
  Real-time Monitoring,,low,high
  Data Integration,,medium,medium
  Predictive Analytics,,high,critical
