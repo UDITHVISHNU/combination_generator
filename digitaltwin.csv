@@ -1,21 +1,32 @@
 col1,col2,col3,col4
- Digital twin,Artificial intelligence ,low,high
- IoT (Internet of Things),,medium,medium
- Simulation,,high,critical
- Virtualization,,critical,low
- Real-time Monitoring,,low,high
- Data Integration,,medium,medium
- Predictive Analytics,,high,critical
- Machine Learning,,critical,low
- Sensor Networks,,low,high
- Cloud Computing,,medium,medium
- Augmented Reality,,high,critical
- Remote Control,,critical,low
- Cyber-Physical Systems,,low,high
- Visualization,,medium,medium
- Asset Management,,high,critical
- Maintenance Optimization,,critical,low
- Lifecycle Management,,low,high
- Industry 4,,medium,medium
- Smart Cities,,high,critical
- Decision Support Systems,,critical,low
+digitaltwin,Artificial intelligence ,low,high
+ IoT (Internet of Things),Machine learning ,medium,medium
+ Simulation,Blockchain technology,high,critical
+ Virtualization,Internet of Things ,critical,low
+ Real-time Monitoring,Cybersecurity,low,high
+ Data Integration,Augmented reality and virtual reality ,medium,medium
+ Predictive Analytics,Quantum computing,high,critical
+ Machine Learning,5G technology,critical,low
+ Sensor Networks,Edge computing,low,high
+ Cloud Computing,Robotics,medium,medium
+ Augmented Reality (AR),Cloud computing,high,critical
+ Remote Control,Natural Language Processing ,critical,low
+ Cyber-Physical Systems,Autonomous vehicles,low,high
+ Visualization,Biotechnology,medium,medium
+ Asset Management,Renewable energy technology,high,critical
+ Maintenance Optimization,Nanotechnology,critical,low
+ Lifecycle Management,Space exploration technology,low,high
+ Industry 4,Wearable technology,medium,medium
+ Smart Cities,3D printing,high,critical
+ Decision Support Systems,Human augmentation technology,critical,low
+,Speech Recognition,,
+,Virtual Assistants,,
+,Autonomous Vehicles,,
+,Predictive Analytics,,
+, Recommendation Systems,,
+,Sentiment Analysis:,,
+, Data Mining,,
+,Edge Computing,,
+,Explainable AI,,
+,Quantum Machine Learning,,
+,Cognitive Computing,,
